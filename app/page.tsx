@@ -1,10 +1,10 @@
-import { PasswordPage } from '@/components/password-page'
+import { PasswordPage } from "@/components/password-page";
 
 export const metadata = {
-  title: 'Unlock My Heart | Valentine\'s Day',
-  description: 'A special Valentine\'s Day message',
-}
+  title: "Happy Valentine's Day, Myle!",
+  description: "A special Valentine's Day website from Bern.",
+};
 
 export default function Page() {
-  return <PasswordPage />
+  return <PasswordPage />;
 }
